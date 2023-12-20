@@ -1,0 +1,1 @@
+git is a useful tool which could storage your txt.
